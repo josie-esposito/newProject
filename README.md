@@ -1,2 +1,2 @@
 # newProject
-~ This is me changing stuff
+~ This is me changing stuff ~
